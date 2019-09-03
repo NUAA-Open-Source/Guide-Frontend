@@ -17,6 +17,7 @@
 
     <v-content>
       <HelloWorld/>
+      <router-link to="/about">About</router-link>
     </v-content>
   </v-app>
 </template>
