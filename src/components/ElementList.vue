@@ -48,14 +48,14 @@ export default {
       {
         id: "20190904002",
         name: "御道助手",
-        introduction: "囊括了全校大部分常用服务的微信小程序，包含课表等常用教务功、消费统计功能、电费查询、校车时刻等。",
+        introduction: "囊括了全校大部分常用服务的微信小程序，包含课表等常用教务功能、消费统计功能、电费查询、校车时刻等。",
         author: "苏瑞辅",
         url: "https://nuaa.suruifu.com"
       },
       {
         id: "20190904003",
         name: "A2OS BlogRoll",
-        introduction: "南京航空航天大学 Blog 收集计划，你可以在这里浏览校内人士的博客，也可以提交自己的博客或个人网站。",
+        introduction: "南京航空航天大学 Blog 收集计划，你可以在这里浏览校内外人士的博客，也可以提交自己的博客或个人网站。",
         author: "A2OS 团队",
         url: "https://blogroll.a2os.club/"
       },
@@ -69,7 +69,7 @@ export default {
       {
         id: "20190904005",
         name: "NUAA-BookCorner 共享图书",
-        introduction: "由南京航空航天大学Asuri战队，微软学生俱乐部，A2OS等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享以及书单推荐计划",
+        introduction: "由南京航空航天大学Asuri战队，微软学生俱乐部，A2OS等部门的各方大佬以及毕业离校的优秀学长们捐助的计算机技术类图书共享以及书单推荐计划。",
         author: "Kit4y",
         url: "https://github.com/NUAA-Open-Source/BookCorner"
       }
