@@ -41,7 +41,7 @@ export default {
   }),
   mounted () {
     this.$axios
-      .get('http://127.0.0.1:8000/cards/get/')
+      .get('https://guide.a2os.club/api/cards/get/')
       .then(response => (this.elements = response.data))
   }
 };
