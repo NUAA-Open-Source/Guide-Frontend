@@ -2,6 +2,7 @@
   <v-container>
     <v-row
       justify="center"
+      class="card-container"
     >
         <v-col
           cols="12"
@@ -48,13 +49,39 @@ export default {
 </script>
 
 <style>
-  .card-title
-  {
+  .card-title{
     background-color: #00E5FF;
     color: black;
   }
-  .card-intro
-  {
+
+  .card-intro{
     margin-top: 10px;
+  }
+
+  @media (min-width: 765px) {
+    .card-container
+    {
+      margin-right: auto;
+      margin-left: auto;
+      width: 745px;
+    }
+  }
+
+  @media (min-width: 990px) {
+    .card-container
+    {
+      margin-right: auto;
+      margin-left: auto;
+      width: 960px;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .card-container
+    {
+      margin-right: auto;
+      margin-left: auto;
+      width: 1170px;
+    }
   }
 </style>
